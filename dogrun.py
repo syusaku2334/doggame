@@ -290,10 +290,10 @@ def main():
     pygame.init()
     pygame.display.set_caption('DOG RUN')
     screen = pygame.display.set_mode((880, 720))
-    fontM1 = pygame.font.Font('mamelon_hireg\Mamelon-5-Hi-Regular.otf', 90)
-    fontM2 = pygame.font.Font('mamelon_hireg\Mamelon-3-Hi-Regular.otf', 30)
-    fontM3 = pygame.font.Font('mamelon_hireg\Mamelon-3-Hi-Regular.otf', 50)
-    fontN = pygame.font.Font('ipaexg00201\ipaexg.ttf', 30)
+    fontM1 = pygame.font.Font('Mamelon-5-Hi-Regular.otf', 90)
+    fontM2 = pygame.font.Font('Mamelon-3-Hi-Regular.otf', 30)
+    fontM3 = pygame.font.Font('Mamelon-3-Hi-Regular.otf', 50)
+    
     clock = pygame.time.Clock()
 
     se = [
